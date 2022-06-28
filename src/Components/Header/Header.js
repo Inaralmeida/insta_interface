@@ -1,6 +1,5 @@
 import { StyleSheet, TouchableOpacity, View, Image } from "react-native";
 import React from "react";
-
 const Header = () => {
   const logo = require("../../img/logo.png");
   const send = require("../../img/send.png");
